@@ -1,0 +1,8 @@
+Success of an upcoming movie
+using Randomforest model
+The project performs the following steps:
+Import the necessary libraries, including pandas, numpy, and scikit-learn modules.
+Load the training and test datasets using pd.read_csv().
+Split the training data into features (X) and target (y).
+Split the training data into training and validation sets using train_test_split().
+
